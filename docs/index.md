@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Taobo Liao's User Page 
+## Self-Introduction
+Hi, my name is Taobo Liao. I'm a third-year ~~CSE~~ math-CS student. I'm Chinese, and I have a dog named "Xiaobao".![pet](https://user-images.githubusercontent.com/59666193/134980727-3092fc11-eed7-46c5-a7f1-4d10b349d161.jpg)  
+He is 3-years-old and never stop running.  
+## Hobbies & some random stuff
+I love playing video games. I really enjoy the process of appreciating others' thoughts and designs. My favorite saying is from Isshin Ashina as I've played Sekiro for hundred hours.  
+> Hesitation is defeat. (迷えば敗れる。)  
 
-You can use the [editor on GitHub](https://github.com/taoboliao/TaoboLiao_CSE110_Lab1_FA_21/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Plus, here are some other things that I enjoy doing:  
+- Watching movies and anime
+- Playing badminton
+- Cooking
+- Swimming  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I sometimes watch vtubers, and [here](https://www.youtube.com/c/AsoulMoments) is the link for them. If you found interested, please go subscribe :)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Some random Java code stuff  
 ```
+Scanner sc = new Scanner(System.in);
+	     long i = sc.nextLong();
+	     while(i != 1) {
+	    	 System.out.print(i + " ");
+	    	 if(i % 2 != 0) {
+	    		 i = 3 * i + 1;
+	    	 }else {
+	    		 i = i / 2;
+	    	 }
+	     }
+	     sc.close();
+```  
+## Future planning  
+Here are some future goals that I want to achieve:  
+1. Getting an internship in a video game company.
+2. Compeleting my graduate studies.
+3. Keeping learning anything that I'm interested in.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Task list
+- [x] CSE110 survey
+- [X] CSE110 prof greeting
+- [X] CSE 110 Lab1
+- [ ] CSE 110 individual statement
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taoboliao/TaoboLiao_CSE110_Lab1_FA_21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## This is me  
+[Now you know me! This is just a section link](#taobo-liao's-user-page).  
+[Here](README.md) is my readme file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
