@@ -42,6 +42,6 @@ Here are some future goals that I want to achieve:
 
 
 ## This is me  
-[Now you know me! You can go top here](#taobo-liao's-user-page).  
+[Now you know me! This is just a section link](#taobo-liao's-user-page).  
 [Here](README.md) is my readme file.
 
